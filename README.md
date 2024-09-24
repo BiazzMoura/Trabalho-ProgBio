@@ -16,5 +16,5 @@ pip install scrapy\
 pip install pandas\
 pip install os.path
 
-## Como funciona esses arquivos de codigos em conjunto
+
 
